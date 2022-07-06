@@ -9,7 +9,7 @@ In the "Local Video" section you can test if you have access to the local video 
 Application screenshot:
 <img src="webrtcwebview.png"  alt="Application screenshot"  width="270"  height="480">
 
-Video:
+Videos:</br>
 <a href="https://youtube.com/shorts/rvfvUFZykEc?feature=share">Video 1<a/></br>
 <a href="https://youtube.com/shorts/iH1XyszlsqA?feature=share">Video 2<a/></br>
 
