@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<title>WebRTC Video Application</title>
+</head>
+<body>
+	<span style="margin: 5px">Other Device</span>
+	<div>
+		<video style="width: 50vh; height: 50vh;" id="remoteVideo"
+			poster="./images/picture.png" autoplay></video>
+	</div>
+
+	<span style="margin: 5px">This Device</span>
+	<div>
+		<video style="width: auto; height: 20vh;" id="localVideo"
+			poster="./images/picture.png" autoplay muted></video>
+	</div>
+
+	<div style="margin-top:30px;">
+		<button id="startButton" onclick="startCall()" style="height:50px; width:100px;">Start call</button>
+		<button id="stopButton" onclick="stopCall()" style="margin-left:90px; height:50px; width:100px;">Hang up</button>
+	</div>
+
+	<script type="text/javascript" src="videochat.js?reloads=true"></script>
+
+</body>
+</html>
