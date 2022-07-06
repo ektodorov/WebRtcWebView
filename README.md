@@ -6,8 +6,8 @@ All devices have to be on the same local network.
 In the videochat.js file you need to add the IP address of the signalling server.
 In the "Local Video" section you can test if you have access to the local video and audio devices.
 
-Application screenshot:
-<img src="webrtcwebview.png"  alt="Application screenshot"  width="270"  height="480">
+Application screenshot:</br>
+<img src="webrtcwebview.png"  alt="Application screenshot"  width="180"  height="320">
 
 Videos:</br>
 <a href="https://youtube.com/shorts/rvfvUFZykEc?feature=share">Video 1<a/></br>
